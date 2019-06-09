@@ -1,0 +1,34 @@
+	body {
+		background-color: #fbd38d;
+		color: rgb(31, 30, 30);
+		text-align: center;
+		padding: 10px;
+	}
+
+	#logo {
+		font-size: 180px;
+		color: #276749;
+		text-shadow: -4px 3px 0 #52b184;
+	}
+
+	p {
+		margin-bottom: 0px;
+	}
+
+	h1 {
+		font-family: 'Chango', cursive;
+		font-size: 100px;
+		margin-top: 1px;
+		color: #276749;
+		text-shadow: -4px 3px 0 #52b184;
+	}
+
+	h2 {
+		font-family: 'Chango', cursive;
+		color: #c05621;
+	}
+
+	hr {
+		background-color: whitesmoke;
+		color: whitesmoke;
+	}
